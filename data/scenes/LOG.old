@@ -1,22 +1,8 @@
-2025/03/23-20:49:33.079 2bc8 Recovering log #847
-2025/03/23-20:49:33.079 2bc8 Level-0 table #849: started
-2025/03/23-20:49:33.122 2bc8 Level-0 table #849: 7828 bytes OK
-2025/03/23-20:49:33.291 2bc8 Delete type=0 #847
-2025/03/23-20:49:33.292 2bc8 Delete type=3 #845
-2025/03/23-20:50:18.741 21d8 Compacting 2@0 + 0@1 files
-2025/03/23-20:50:18.824 21d8 Generated table #851@0: 5 keys, 12318 bytes
-2025/03/23-20:50:18.824 21d8 Compacted 2@0 + 0@1 files => 12318 bytes
-2025/03/23-20:50:18.870 21d8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/23-20:50:18.870 21d8 Delete type=2 #846
-2025/03/23-20:50:18.870 21d8 Delete type=2 #849
-2025/03/23-20:51:53.887 21d8 Compacting 1@1 + 1@2 files
-2025/03/23-20:51:53.891 21d8 Generated table #852@1: 911 keys, 91838 bytes
-2025/03/23-20:51:53.891 21d8 Compacted 1@1 + 1@2 files => 91838 bytes
-2025/03/23-20:51:53.892 21d8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/23-20:51:53.892 21d8 Delete type=2 #836
-2025/03/23-20:51:53.893 21d8 Delete type=2 #851
-2025/03/23-20:54:18.955 21d8 Level-0 table #854: started
-2025/03/23-20:54:18.955 21d8 Level-0 table #854: 0 bytes OK
-2025/03/23-20:54:18.956 21d8 Delete type=0 #850
-2025/03/23-20:54:18.958 21d8 Manual compaction at level-0 from '!scenes!CiudbdVrW209jSO9' @ 72057594037927935 : 1 .. '!scenes.walls!q19hJ0cgwrheXVBr.ztBSayZx3FUA3Xie' @ 0 : 0; will stop at (end)
-2025/03/23-20:54:18.967 21d8 Manual compaction at level-1 from '!scenes!CiudbdVrW209jSO9' @ 72057594037927935 : 1 .. '!scenes.walls!q19hJ0cgwrheXVBr.ztBSayZx3FUA3Xie' @ 0 : 0; will stop at (end)
+2025/03/23-20:59:02.347 309c Recovering log #853
+2025/03/23-20:59:02.619 309c Delete type=0 #853
+2025/03/23-20:59:02.619 309c Delete type=3 #848
+2025/03/23-21:01:12.123 2fe0 Level-0 table #858: started
+2025/03/23-21:01:12.130 2fe0 Level-0 table #858: 308 bytes OK
+2025/03/23-21:01:12.132 2fe0 Delete type=0 #856
+2025/03/23-21:01:12.143 2fe0 Manual compaction at level-0 from '!scenes.lights!CiudbdVrW209jSO9.08zPnCeaQIQbVLyL' @ 72057594037927935 : 1 .. '!scenes.walls!q19hJ0cgwrheXVBr.ztBSayZx3FUA3Xie' @ 0 : 0; will stop at (end)
+2025/03/23-21:01:12.145 2fe0 Manual compaction at level-1 from '!scenes.lights!CiudbdVrW209jSO9.08zPnCeaQIQbVLyL' @ 72057594037927935 : 1 .. '!scenes.walls!q19hJ0cgwrheXVBr.ztBSayZx3FUA3Xie' @ 0 : 0; will stop at (end)

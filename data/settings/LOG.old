@@ -1,25 +1,15 @@
-2025/03/23-20:49:33.326 290 Recovering log #953
-2025/03/23-20:49:33.326 290 Level-0 table #955: started
-2025/03/23-20:49:33.375 290 Level-0 table #955: 2688 bytes OK
-2025/03/23-20:49:33.541 290 Delete type=0 #953
-2025/03/23-20:49:33.542 290 Delete type=3 #951
-2025/03/23-20:54:18.981 21d8 Level-0 table #958: started
-2025/03/23-20:54:18.996 21d8 Level-0 table #958: 2742 bytes OK
-2025/03/23-20:54:18.998 21d8 Delete type=0 #956
-2025/03/23-20:54:18.999 21d8 Manual compaction at level-0 from '!settings!09MA4y0rsHQI0v9N' @ 72057594037927935 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at '!settings!prQQMUuoZLy25PlP' @ 730 : 1
-2025/03/23-20:54:18.999 21d8 Compacting 3@0 + 0@1 files
-2025/03/23-20:54:19.010 21d8 Generated table #959@0: 10 keys, 3586 bytes
-2025/03/23-20:54:19.011 21d8 Compacted 3@0 + 0@1 files => 3586 bytes
-2025/03/23-20:54:19.012 21d8 compacted to: files[ 0 1 1 0 0 0 0 ]
-2025/03/23-20:54:19.013 21d8 Delete type=2 #952
-2025/03/23-20:54:19.013 21d8 Delete type=2 #955
-2025/03/23-20:54:19.013 21d8 Delete type=2 #958
-2025/03/23-20:54:19.020 21d8 Manual compaction at level-0 from '!settings!prQQMUuoZLy25PlP' @ 730 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at (end)
-2025/03/23-20:54:19.021 21d8 Manual compaction at level-1 from '!settings!09MA4y0rsHQI0v9N' @ 72057594037927935 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at '!settings!xGjmd5lh0ORffAuv' @ 726 : 1
-2025/03/23-20:54:19.021 21d8 Compacting 1@1 + 1@2 files
-2025/03/23-20:54:19.027 21d8 Generated table #960@1: 30 keys, 6859 bytes
-2025/03/23-20:54:19.027 21d8 Compacted 1@1 + 1@2 files => 6859 bytes
-2025/03/23-20:54:19.029 21d8 compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/03/23-20:54:19.029 21d8 Delete type=2 #948
-2025/03/23-20:54:19.029 21d8 Delete type=2 #959
-2025/03/23-20:54:19.030 21d8 Manual compaction at level-1 from '!settings!xGjmd5lh0ORffAuv' @ 726 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at (end)
+2025/03/23-20:59:02.642 e30 Recovering log #957
+2025/03/23-20:59:02.982 e30 Delete type=0 #957
+2025/03/23-20:59:02.982 e30 Delete type=3 #954
+2025/03/23-21:01:12.132 2fe0 Level-0 table #964: started
+2025/03/23-21:01:12.141 2fe0 Level-0 table #964: 2688 bytes OK
+2025/03/23-21:01:12.143 2fe0 Delete type=0 #962
+2025/03/23-21:01:12.145 2fe0 Manual compaction at level-0 from '!settings!09MA4y0rsHQI0v9N' @ 72057594037927935 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at (end)
+2025/03/23-21:01:12.145 2fe0 Manual compaction at level-1 from '!settings!09MA4y0rsHQI0v9N' @ 72057594037927935 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at '!settings!prQQMUuoZLy25PlP' @ 735 : 1
+2025/03/23-21:01:12.145 2fe0 Compacting 1@1 + 1@2 files
+2025/03/23-21:01:12.149 2fe0 Generated table #965@1: 30 keys, 6862 bytes
+2025/03/23-21:01:12.149 2fe0 Compacted 1@1 + 1@2 files => 6862 bytes
+2025/03/23-21:01:12.152 2fe0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/03/23-21:01:12.152 2fe0 Delete type=2 #960
+2025/03/23-21:01:12.152 2fe0 Delete type=2 #964
+2025/03/23-21:01:12.153 2fe0 Manual compaction at level-1 from '!settings!prQQMUuoZLy25PlP' @ 735 : 1 .. '!settings!zwW1cRCNVfp5Joed' @ 0 : 0; will stop at (end)
