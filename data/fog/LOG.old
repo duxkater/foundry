@@ -1,7 +1,3 @@
-2025/03/23-20:59:00.219 e30 Recovering log #704
-2025/03/23-20:59:00.536 e30 Delete type=0 #704
-2025/03/23-20:59:00.536 e30 Delete type=3 #702
-2025/03/23-21:01:12.116 2fe0 Level-0 table #709: started
-2025/03/23-21:01:12.116 2fe0 Level-0 table #709: 0 bytes OK
-2025/03/23-21:01:12.118 2fe0 Delete type=0 #707
-2025/03/23-21:01:12.121 2fe0 Manual compaction at level-0 from '!fog!4DLvwlvUa5GaJXlF' @ 72057594037927935 : 1 .. '!fog!zgpVt6XO8LlRXrBO' @ 0 : 0; will stop at (end)
+2025/03/26-21:31:01.382 1610 Recovering log #708
+2025/03/26-21:31:01.396 1610 Delete type=0 #708
+2025/03/26-21:31:01.396 1610 Delete type=3 #706
