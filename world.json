@@ -9,7 +9,7 @@
     "verified": "12.331"
   },
   "systemVersion": "1.8.2",
-  "lastPlayed": "Sun Mar 23 2025 21:01:11 GMT+0100 (heure normale d’Europe centrale)",
+  "lastPlayed": "Wed Mar 26 2025 21:31:01 GMT+0100 (heure normale d’Europe centrale)",
   "playtime": 123168,
   "packs": [
     {
@@ -119,6 +119,24 @@
         "ASSISTANT": "OWNER"
       },
       "flags": {}
+    },
+    {
+      "label": "Grimworld",
+      "type": "JournalEntry",
+      "name": "grimworld",
+      "path": "packs/grimworld",
+      "system": "dungeonworld",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {},
+      "package": "world",
+      "id": "world.grimworld",
+      "packageType": "world",
+      "packageName": "dungeon-world-seed",
+      "index": [],
+      "folders": []
     }
   ],
   "background": "worlds/dungeon-world/assets/images/__full.jpg",
