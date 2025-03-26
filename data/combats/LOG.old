@@ -1,0 +1,7 @@
+2025/03/23-20:49:30.303 d3c Recovering log #669
+2025/03/23-20:49:30.634 d3c Delete type=0 #669
+2025/03/23-20:49:30.634 d3c Delete type=3 #668
+2025/03/23-20:54:18.927 21d8 Level-0 table #673: started
+2025/03/23-20:54:18.927 21d8 Level-0 table #673: 0 bytes OK
+2025/03/23-20:54:18.928 21d8 Delete type=0 #671
+2025/03/23-20:54:18.931 21d8 Manual compaction at level-0 from '!combats!dPkpXmKmwczHw5wT' @ 72057594037927935 : 1 .. '!combats!mEpaAY4SQnU44vhi' @ 0 : 0; will stop at (end)
